@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+#  ODYSEE
 
-novo
+**Siga esses canais para mais informações**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*  [Odysee Ajuda](https://odysee.com/@ajuda:d)
 
-### Markdown
+* [Odysee Brasil](https://odysee.com/@odyseebr:1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Conhecendo a plataforma
 
-```markdown
-Syntax highlighted code block
+* [Básico da plataforma](https://odysee.com/@ajuda:d/basico:d)
 
-# Header 1
-## Header 2
-### Header 3
+* [Diretrizes da Comunidade](https://odysee.com/@ajuda:d/diretrizes:9)
 
-- Bulleted
-- List
+* [Ferramentas de moderação](https://odysee.com/@ajuda:d/ferramentas:4)
 
-1. Numbered
-2. List
+## Primeiros passos
 
-**Bold** and _Italic_ and `Code` text
+* [Niveis do Odysee](https://odysee.com/@ajuda:d/nivel:3)
 
-[Link](url) and ![Image](src)
-```
+* [Como postar na plataforma](https://odysee.com/@odyseebr:1/upload:6)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [Sincronização com o Youtube](https://odysee.com/@odyseebr:1/sync:f)
 
-### Jekyll Themes
+## Monetização de conteudo
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JasperOPR/odyseeb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [Monetização de Conteúdo](https://odysee.com/@ajuda:d/monetizacao:d)
 
-### Support or Contact
+* [Transações e Carteira](https://odysee.com/@ajuda:d/carteira:e)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Compra e Venda (Conversão) de LBC](https://odysee.com/@ajuda:d/troca:0)
+
+
+
+by: Jasper
+
+### Mais ajudas aqui
+
+
+[Discord](https://discord.gg/S24XhKAvYx)                        [Twitter](https://twitter.com/OdyseeB)
