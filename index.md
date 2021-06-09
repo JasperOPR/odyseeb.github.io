@@ -26,7 +26,7 @@
 
 * [Sincronização com o Youtube](https://odysee.com/@odyseebr:1/sync:f)
 
-## Monetização de conteudo
+## Monetização de conteúdo
 
 * [Monetização de Conteúdo](https://odysee.com/@ajuda:d/monetizacao:d)
 
