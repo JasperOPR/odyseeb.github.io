@@ -1,6 +1,6 @@
 #  ODYSEE
 
-## O que é a odysee?
+## O que é a Odysee?
 
  A **Odysee** é uma plataforma de vídeos descentralizada, baseada em blockchain e através do protocolo LBRY, altamente reconhecido por diversos programadores. Seu principal objetivo é garantir a liberdade de expressão dos criadores de conteúdo, além de utilizar uma criptomoeda própria na plataforma (LBC) para recompensar usuários por seus engajamentos.
 
